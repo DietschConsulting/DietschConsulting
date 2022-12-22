@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DietschConsulting
+- 👋 Hi, I’m Christian @DietschConsulting
 - 👀 I’m interested in people and how to connect human and machine.
 - 🌱 I’m currently learning ...every day something new ;-)
 - 💞️ I’m looking to collaborate on ...
